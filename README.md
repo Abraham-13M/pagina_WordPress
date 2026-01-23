@@ -6,4 +6,7 @@ La plantilla a utilizar es sobre instalaciones de aire acondicionado.
 Dia 16/01/2026:
 <img width="1093" height="4381" alt="FireShot Capture 004 - Home - Digitalización -  127 0 0 1" src="https://github.com/user-attachments/assets/f996bfec-6372-48bd-b233-12bb84f89743" />
 
+Dia 23/01/2026:
+<img width="1079" height="581" alt="image" src="https://github.com/user-attachments/assets/6a977f05-cfb7-4b13-9570-9b263a9b924e" />
+
 
