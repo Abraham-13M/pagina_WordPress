@@ -11,4 +11,6 @@ Dia 23/01/2026:
 
 Dia 24/01/2026:
 pagina 1:
-<img width="1079" height="581" alt="image" src="C:\Users\USUARIOM\Downloads\FireShot Capture 008 - Home - Digitalización - [127.0.0.1] (1).pdf"
+<img width="1079" height="581" alt="image" src=https://github.com/Abraham-13M/pagina_WordPress/blob/main/FireShot%20Capture%20008%20-%20Home%20-%20Digitalizaci%C3%B3n%20-%20%5B127.0.0.1%5D%20(2).png
+
+pagina 2:
