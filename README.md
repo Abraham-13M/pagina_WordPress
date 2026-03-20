@@ -11,4 +11,4 @@ Dia 23/01/2026:
 
 Dia 24/01/2026:
 pagina 1:
-
+<img width="1079" height="581" alt="image" src="C:\Users\USUARIOM\Downloads\FireShot Capture 008 - Home - Digitalización - [127.0.0.1] (1).pdf"
