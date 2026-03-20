@@ -9,4 +9,6 @@ Dia 16/01/2026:
 Dia 23/01/2026:
 <img width="1079" height="581" alt="image" src="https://github.com/user-attachments/assets/6a977f05-cfb7-4b13-9570-9b263a9b924e" />
 
+Dia 24/01/2026:
+pagina 1:
 
